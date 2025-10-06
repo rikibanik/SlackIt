@@ -1,8 +1,6 @@
 
 # StackIt – A Minimal Q&A Forum Platform
 
-> Team 3154  
-> Team Leader Email: 23it3009@rgipt.ac.in
 
 StackIt is a minimal question-and-answer platform that supports collaborative learning and structured knowledge sharing. It's designed to be simple, user-friendly, and focused on the core experience of asking and answering questions within a community.
 
